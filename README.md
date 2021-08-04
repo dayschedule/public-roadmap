@@ -6,7 +6,7 @@ This roadmap contains all the issues, improvements and new features we plan for 
 
 ## Suggest a Feature
 
-Tell us what feature, integration or UI tweak would rock your world. Just go here and create an issue in this project and label it as `feature request`. To optimize our information exchange, an initial feature request would containt the following parts:
+Tell us what feature, integration or UI tweak would rock your world. Just go here and [create an issue](https://github.com/dayschedule/public-roadmap/issues/new/choose) in this project and label it as `feature request`. To optimize our information exchange, an initial feature request would contain the following parts:
 
 - Problem description. What is not working, missing or bugging you?
 - Process description. What step(s) are needed to solve this issue?
